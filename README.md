@@ -39,7 +39,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Useful resources
 
 - [CSS-Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me with all my doubts about grid
-- [Kevin Powell: CSS Grid Made Simple](https://www.youtube.com/watch?v=_lEkD8IGkwo&pp=ugMICgJlcxABGAE%3D) - Kevin Powell explains grid in the most easiest way possible
+- [Kevin Powell: CSS Grid Made Simple](https://www.youtube.com/watch?v=_lEkD8IGkwo&pp=ugMICgJlcxABGAE%3D) - Kevin Powell explains grid in the easiest way possible
 
 ## Author
 
