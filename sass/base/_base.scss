@@ -1,0 +1,30 @@
+@use "../abstracts/mixins" as *;
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--light-grayish-blue);
+  @include flex-column(center, center);
+}
+
+.container {
+  max-width: calc(100% - 48px);
+  display: grid;
+  gap: 1.5rem;
+  margin: 20% auto;
+  transition: all 0.4s ease;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+}
